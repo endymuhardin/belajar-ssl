@@ -1,0 +1,74 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4096 (0x1000)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ID, ST=DKI Jakarta, L=Jakarta Timur, O=CA Palsu, OU=Divisi Sertifikasi, CN=ROOT CA Palsu
+        Validity
+            Not Before: Jul  9 05:57:20 2013 GMT
+            Not After : Jul  9 05:57:20 2014 GMT
+        Subject: CN=demo.muhardin.com, ST=DKI Jakarta, C=ID/emailAddress=endy@muhardin.com, O=PT. Endy Muhardin, OU=Divisi Teknologi Informasi
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bf:09:80:81:eb:15:3d:8f:a9:34:27:00:78:4f:
+                    01:76:84:8f:87:e3:57:c7:d5:f1:b5:27:f6:59:3c:
+                    ed:ed:5d:a2:6e:89:ba:d7:3a:72:4d:30:05:c3:f8:
+                    69:12:bf:f7:ce:03:8e:6e:21:c5:f8:ea:fb:d4:2d:
+                    73:73:fd:f4:bc:cf:7f:91:91:57:6b:43:f0:47:d8:
+                    c0:4c:78:78:e5:53:77:6e:3d:88:6f:e9:cd:f2:51:
+                    59:99:af:b2:2c:56:20:61:4e:cc:13:d5:51:bd:64:
+                    0a:b9:ee:59:a3:73:f0:d3:23:ff:0f:8c:61:6f:03:
+                    ae:29:cd:e5:9c:7b:7c:93:02:6b:b7:d3:3c:27:0d:
+                    0d:b6:9b:98:06:39:f3:cc:7e:c7:f6:4d:35:b7:07:
+                    57:92:36:fe:56:9a:50:08:af:a0:ed:07:82:b1:78:
+                    23:17:a0:a9:c8:cc:14:c3:a6:a9:1e:11:ff:8c:b8:
+                    8b:2a:0b:0e:3f:79:79:d6:80:11:d9:1f:ae:95:20:
+                    0c:bf:f7:28:24:86:f5:f6:75:03:5a:30:06:68:13:
+                    13:9f:00:45:95:62:dc:e0:5b:ce:2d:d2:3f:82:c1:
+                    28:31:42:e9:3f:9e:f8:e4:9c:4e:53:19:73:ab:86:
+                    36:60:f2:69:f4:79:76:4a:9a:64:5e:22:c6:30:8d:
+                    cd:3d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+    Signature Algorithm: sha1WithRSAEncryption
+         8f:ea:5d:15:32:62:d0:3c:08:db:24:88:b0:cd:e4:cf:86:a3:
+         ea:69:ea:8b:5e:4a:01:8d:ce:53:c4:f9:6a:9c:0a:50:0a:0f:
+         b6:00:88:eb:de:75:20:e3:be:33:76:a2:e5:1e:70:68:b7:1b:
+         46:60:19:5c:da:2c:cb:e6:5f:21:a2:6a:a6:65:2a:39:66:a2:
+         ab:3c:bd:ab:33:dc:d5:8e:78:eb:bb:f8:d2:29:8e:34:c6:e6:
+         3b:07:3c:18:ce:5c:d8:78:d1:c7:ad:c5:10:33:3a:0d:4e:8f:
+         77:8b:95:17:68:a6:01:a8:c3:58:25:64:33:49:20:e8:32:67:
+         d7:23:f0:2d:d9:91:77:b6:2a:ad:69:6c:a6:88:3f:b1:1d:f2:
+         03:13:df:c7:34:d7:a8:75:5e:57:6c:1b:35:27:5f:8b:c7:c8:
+         d0:39:01:75:99:50:ac:33:f4:8b:fa:20:b7:9f:2f:49:bf:c8:
+         d3:01:c3:11:89:01:be:23:19:47:d8:cb:db:56:26:55:55:8b:
+         9a:49:30:7b:8c:9e:93:22:1e:5a:53:ad:f8:00:30:7a:17:15:
+         d5:8f:d9:85:d0:11:a7:4c:df:ca:03:5b:6c:46:32:71:3c:4a:
+         e7:be:ac:a4:23:35:96:4e:d2:d4:31:7d:4f:d1:e6:e0:bc:79:
+         d4:9f:14:f8
+-----BEGIN CERTIFICATE-----
+MIIDsDCCApigAwIBAgICEAAwDQYJKoZIhvcNAQEFBQAwgYMxCzAJBgNVBAYTAklE
+MRQwEgYDVQQIDAtES0kgSmFrYXJ0YTEWMBQGA1UEBwwNSmFrYXJ0YSBUaW11cjER
+MA8GA1UECgwIQ0EgUGFsc3UxGzAZBgNVBAsMEkRpdmlzaSBTZXJ0aWZpa2FzaTEW
+MBQGA1UEAwwNUk9PVCBDQSBQYWxzdTAeFw0xMzA3MDkwNTU3MjBaFw0xNDA3MDkw
+NTU3MjBaMIGiMRowGAYDVQQDDBFkZW1vLm11aGFyZGluLmNvbTEUMBIGA1UECAwL
+REtJIEpha2FydGExCzAJBgNVBAYTAklEMSAwHgYJKoZIhvcNAQkBFhFlbmR5QG11
+aGFyZGluLmNvbTEaMBgGA1UECgwRUFQuIEVuZHkgTXVoYXJkaW4xIzAhBgNVBAsM
+GkRpdmlzaSBUZWtub2xvZ2kgSW5mb3JtYXNpMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAvwmAgesVPY+pNCcAeE8BdoSPh+NXx9XxtSf2WTzt7V2ibom6
+1zpyTTAFw/hpEr/3zgOObiHF+Or71C1zc/30vM9/kZFXa0PwR9jATHh45VN3bj2I
+b+nN8lFZma+yLFYgYU7ME9VRvWQKue5Zo3Pw0yP/D4xhbwOuKc3lnHt8kwJrt9M8
+Jw0NtpuYBjnzzH7H9k01twdXkjb+VppQCK+g7QeCsXgjF6CpyMwUw6apHhH/jLiL
+KgsOP3l51oAR2R+ulSAMv/coJIb19nUDWjAGaBMTnwBFlWLc4FvOLdI/gsEoMULp
+P5745JxOUxlzq4Y2YPJp9Hl2SppkXiLGMI3NPQIDAQABow0wCzAJBgNVHRMEAjAA
+MA0GCSqGSIb3DQEBBQUAA4IBAQCP6l0VMmLQPAjbJIiwzeTPhqPqaeqLXkoBjc5T
+xPlqnApQCg+2AIjr3nUg474zdqLlHnBotxtGYBlc2izL5l8homqmZSo5ZqKrPL2r
+M9zVjnjru/jSKY40xuY7BzwYzlzYeNHHrcUQMzoNTo93i5UXaKYBqMNYJWQzSSDo
+MmfXI/At2ZF3tiqtaWymiD+xHfIDE9/HNNeodV5XbBs1J1+Lx8jQOQF1mVCsM/SL
++iC3ny9Jv8jTAcMRiQG+IxlH2MvbViZVVYuaSTB7jJ6TIh5aU634ADB6FxXVj9mF
+0BGnTN/KA1tsRjJxPErnvqykIzWWTtLUMX1P0ebgvHnUnxT4
+-----END CERTIFICATE-----
