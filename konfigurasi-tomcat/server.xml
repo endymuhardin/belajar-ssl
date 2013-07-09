@@ -1,0 +1,7 @@
+<Connector port="8443" protocol="HTTP/1.1" SSLEnabled="true"
+    maxThreads="150" scheme="https" secure="true"
+    clientAuth="false" sslProtocol="TLS" 
+    keystoreFile="conf/demo.muhardin.com.jks"
+    keystorePass="test1234"
+    keyAlias="demo.muhardin.com"
+/>
